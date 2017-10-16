@@ -1,8 +1,3 @@
-
-
-
-
-
 $(document).ready(function(){
   $("#submit").on("click", (function(){
     var userInput = $(".input").val();
